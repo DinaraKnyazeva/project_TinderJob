@@ -1,0 +1,14 @@
+.container {
+
+}
+
+.registration {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.submit {
+    position: absolute;
+    bottom: 30px;
+}
