@@ -1,0 +1,54 @@
+.swiper {
+  width: 500px;
+  height: 700px;
+}
+.cards {
+  width: 300px;
+  margin: 0 auto;
+  height: 100%;
+  box-shadow: 4px 5px 5px rgb(59, 55, 55);
+  border-radius: 5px;
+}
+.cards__container {
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cards__user-img {
+  width: 100%;
+  height: 80%;
+}
+.cards__container-img {
+  height: 250px;
+}
+.cards__icon-btn {
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+}
+.red {
+  background-color: #dc3545;
+  border: none;
+}
+.white {
+  background-color: white;
+  border: 1px solid #7749f8;
+}
+.violet {
+  background-color: #7749f8;
+  border: none;
+}
+.cards__icon {
+  width: 80%;
+}
+.swiper-slide {
+  padding: 10%;
+}
+.cards__icon-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.cards__container-text {
+  height: 200px;
+}
